@@ -1,5 +1,6 @@
 # Network_Tool
-It's a Advanced Network Tool
+It's a Advanced Network Tool 
+Before u use it read the README.md it is important!
 __________________________________________________________________________________________________________________________________
 
 ### Deutsch
