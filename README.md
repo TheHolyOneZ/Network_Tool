@@ -1,5 +1,14 @@
 # Network_Tool
 It's a Advanced Network Tool Before u use it read the README.md it is important!
+
+
+
+
+### There is a Setup .zip above install it and read the note in it!
+
+
+
+
 __________________________________________________________________________________________________________________________________
 
 ### Deutsch
