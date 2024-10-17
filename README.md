@@ -1,6 +1,38 @@
 
 First use the .zip file and start teh start_setup.bat after that u install the other .bat file (requirements.bat) and start it too after everything is downloaded u can start the python file
 !!!!!!!        IMPORTANT install nmap         !!!!!!!!!!!!!!!!
+
+
+if : Collecting netifaces
+  Using cached netifaces-0.11.0.tar.gz (30 kB)
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Preparing metadata (pyproject.toml) ... done
+Building wheels for collected packages: netifaces
+  Building wheel for netifaces (pyproject.toml) ... error
+  error: subprocess-exited-with-error
+  
+  × Building wheel for netifaces (pyproject.toml) did not run successfully.
+  │ exit code: 1
+  ╰─> [5 lines of output]
+      running bdist_wheel
+      running build
+      running build_ext
+      building 'netifaces' extension
+      error: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+      [end of output]
+
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+  ERROR: Failed building wheel for netifaces
+Failed to build netifaces
+ERROR: ERROR: Failed to build installable wheels for some pyproject.toml based projects (netifaces)
+
+just get the c++14.0 +- https://visualstudio.microsoft.com/visual-cpp-build-tools/ after that it go in the terminal (cmd) "pip install netifaces" after that it should work
+
+
+
+
+
 # Network_Tool
 It's a Advanced Network Tool Before u use it read the README.md it is important!
 
