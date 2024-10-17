@@ -28,6 +28,7 @@ Failed to build netifaces
 ERROR: ERROR: Failed to build installable wheels for some pyproject.toml based projects (netifaces)
 
 **just get the c++14.0 +- https://visualstudio.microsoft.com/visual-cpp-build-tools/ after that it go in the terminal (cmd) "pip install netifaces" after that it should work**
+**and after u installed that do pip install python-nmap**
 
 
 
