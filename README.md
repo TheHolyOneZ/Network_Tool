@@ -1,3 +1,6 @@
+
+First use the .zip file and start teh start_setup.bat after that u install the other .bat file (requirements.bat) and start it too after everything is downloaded u can start the python file
+
 # Network_Tool
 It's a Advanced Network Tool Before u use it read the README.md it is important!
 
